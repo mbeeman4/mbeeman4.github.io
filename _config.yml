@@ -23,7 +23,7 @@ repository               : "mbeeman4/mbeeman4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "fig3_v3.png" # "profile.png"
   name             : "Max Beeman"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
