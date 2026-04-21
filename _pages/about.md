@@ -8,3 +8,30 @@ redirect_from:
 ---
 
 Max Beeman is a PhD candidate studying environmental fluid mechanics at Stanford University.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
