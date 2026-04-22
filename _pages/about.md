@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Max Beeman is a PhD candidate in civil and environmental engineering at Stanford University. 
+I am a PhD candidate in civil and environmental engineering at Stanford University. My research focuses on hurricane wind and wave loading on coastal structures. 
 
 
 
